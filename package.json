@@ -1,0 +1,27 @@
+{
+    "name": "react-wc-sample",
+    "version": "1.0.0",
+    "description": "React Web Component Setup Example ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/siddkar/react-wc-sample.git"
+    },
+    "keywords": [
+        "React",
+        "Web",
+        "Component",
+        "Typescript",
+        "Redux",
+        "Webpack"
+    ],
+    "author": "siddharth.kar@outlook.com",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/siddkar/react-wc-sample/issues"
+    },
+    "homepage": "https://github.com/siddkar/react-wc-sample#readme"
+}
