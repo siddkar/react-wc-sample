@@ -10,6 +10,10 @@ module.exports = {
 		new Dotenv({
 			path: "./.env",
 		}),
+		new HtmlWebpackPlugin({
+			template: "./public/index.html",
+			filename: "index.html",
+		}),
 	],
 	output: {
 		path: __dirname + "/public",
