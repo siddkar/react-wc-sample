@@ -28,6 +28,11 @@ module.exports = {
 		open: true,
 		hot: true,
 	},
+	stats: {
+		assets: true,
+		builtAt: true,
+		chunks: true,
+	},
 	watchOptions: {
 		poll: 1000,
 		ignored: ["node_modules"],
